@@ -631,7 +631,7 @@ checksum = "78b3ae25bc7c8c38cec158d1f2757ee79e9b3740fbc7ccf0e59e4b08d793fa89"
 
 [[package]]
 name = "liu2endpoint"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "envy",
  "noem",
@@ -743,9 +743,9 @@ dependencies = [
 
 [[package]]
 name = "noem"
-version = "0.0.2"
+version = "0.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ba8a2610f46cb0e98f5e8ec93634da5237a08a2cf77e132f4c875d0dbfa87876"
+checksum = "014279be419443ab2678a97411a3f5d7a28ae22c752d3b4748f4df4cdf6794b6"
 dependencies = [
  "async-imap",
  "async-native-tls",
